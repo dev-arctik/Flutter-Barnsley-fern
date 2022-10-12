@@ -1,3 +1,4 @@
+import 'package:barnsley_fern/canvas.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -36,7 +37,7 @@ class HomePage extends StatelessWidget {
           padding: EdgeInsets.all(20),
           child: AspectRatio(
             aspectRatio: 1,
-            child: Card(),
+            child: DrawingCanvas(),
           ),
         ),
       ),
