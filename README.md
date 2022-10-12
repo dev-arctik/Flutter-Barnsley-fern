@@ -8,3 +8,6 @@ Barnsley fern plotted with Processing
 The fern code developed by Barnsley is an example of an iterated function system (IFS) to create a fractal. This follows from the collage theorem. He has used fractals to model a diverse range of phenomena in science and technology, but most specifically plant structures.
 
 The explation is provided on [Wikipedia](https://en.wikipedia.org/wiki/Barnsley_fern)
+
+Following is the screenshot of the fern plotted on the canvas.
+![Barnsley Fern](https://raw.githubusercontent.com/dev-arctik/Flutter-Barnsley-fern/main/For%20Readme/Barnsley%20Fern.png)
